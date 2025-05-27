@@ -1,0 +1,31 @@
+C:\Users\PHUONG NGHI\Desktop\DoAnAnToanMang\bin\Debug\Playfair.exe.config
+C:\Users\PHUONG NGHI\Desktop\DoAnAnToanMang\bin\Debug\Playfair.exe
+C:\Users\PHUONG NGHI\Desktop\DoAnAnToanMang\bin\Debug\Playfair.pdb
+C:\Users\PHUONG NGHI\Desktop\DoAnAnToanMang\obj\Debug\ATMProject.csproj.AssemblyReference.cache
+C:\Users\PHUONG NGHI\Desktop\DoAnAnToanMang\obj\Debug\Playfair.PlayfairCipherForm.resources
+C:\Users\PHUONG NGHI\Desktop\DoAnAnToanMang\obj\Debug\Playfair.Properties.Resources.resources
+C:\Users\PHUONG NGHI\Desktop\DoAnAnToanMang\obj\Debug\Playfair.RSACipher.resources
+C:\Users\PHUONG NGHI\Desktop\DoAnAnToanMang\obj\Debug\ATMProject.csproj.GenerateResource.cache
+C:\Users\PHUONG NGHI\Desktop\DoAnAnToanMang\obj\Debug\ATMProject.csproj.CoreCompileInputs.cache
+C:\Users\PHUONG NGHI\Desktop\DoAnAnToanMang\obj\Debug\Playfair.exe
+C:\Users\PHUONG NGHI\Desktop\DoAnAnToanMang\obj\Debug\Playfair.pdb
+C:\Users\PHUONG NGHI\Downloads\DoAnAnToanMang\DoAnAnToanMang\bin\Debug\Playfair.exe.config
+C:\Users\PHUONG NGHI\Downloads\DoAnAnToanMang\DoAnAnToanMang\bin\Debug\Playfair.exe
+C:\Users\PHUONG NGHI\Downloads\DoAnAnToanMang\DoAnAnToanMang\bin\Debug\Playfair.pdb
+C:\Users\PHUONG NGHI\Downloads\DoAnAnToanMang\DoAnAnToanMang\obj\Debug\ATMProject.csproj.AssemblyReference.cache
+C:\Users\PHUONG NGHI\Downloads\DoAnAnToanMang\DoAnAnToanMang\obj\Debug\Playfair.PlayfairCipherForm.resources
+C:\Users\PHUONG NGHI\Downloads\DoAnAnToanMang\DoAnAnToanMang\obj\Debug\Playfair.Properties.Resources.resources
+C:\Users\PHUONG NGHI\Downloads\DoAnAnToanMang\DoAnAnToanMang\obj\Debug\ATMProject.csproj.GenerateResource.cache
+C:\Users\PHUONG NGHI\Downloads\DoAnAnToanMang\DoAnAnToanMang\obj\Debug\ATMProject.csproj.CoreCompileInputs.cache
+C:\Users\PHUONG NGHI\Downloads\DoAnAnToanMang\DoAnAnToanMang\obj\Debug\Playfair.exe
+C:\Users\PHUONG NGHI\Downloads\DoAnAnToanMang\DoAnAnToanMang\obj\Debug\Playfair.pdb
+C:\Users\PHUONG NGHI\Downloads\DoAnAnToanMang (1)\DoAnAnToanMang\DoAnAnToanMang\bin\Debug\Playfair.exe.config
+C:\Users\PHUONG NGHI\Downloads\DoAnAnToanMang (1)\DoAnAnToanMang\DoAnAnToanMang\bin\Debug\Playfair.exe
+C:\Users\PHUONG NGHI\Downloads\DoAnAnToanMang (1)\DoAnAnToanMang\DoAnAnToanMang\bin\Debug\Playfair.pdb
+C:\Users\PHUONG NGHI\Downloads\DoAnAnToanMang (1)\DoAnAnToanMang\DoAnAnToanMang\obj\Debug\ATMProject.csproj.AssemblyReference.cache
+C:\Users\PHUONG NGHI\Downloads\DoAnAnToanMang (1)\DoAnAnToanMang\DoAnAnToanMang\obj\Debug\Playfair.PlayfairCipherForm.resources
+C:\Users\PHUONG NGHI\Downloads\DoAnAnToanMang (1)\DoAnAnToanMang\DoAnAnToanMang\obj\Debug\Playfair.Properties.Resources.resources
+C:\Users\PHUONG NGHI\Downloads\DoAnAnToanMang (1)\DoAnAnToanMang\DoAnAnToanMang\obj\Debug\ATMProject.csproj.GenerateResource.cache
+C:\Users\PHUONG NGHI\Downloads\DoAnAnToanMang (1)\DoAnAnToanMang\DoAnAnToanMang\obj\Debug\ATMProject.csproj.CoreCompileInputs.cache
+C:\Users\PHUONG NGHI\Downloads\DoAnAnToanMang (1)\DoAnAnToanMang\DoAnAnToanMang\obj\Debug\Playfair.exe
+C:\Users\PHUONG NGHI\Downloads\DoAnAnToanMang (1)\DoAnAnToanMang\DoAnAnToanMang\obj\Debug\Playfair.pdb
