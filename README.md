@@ -1,1 +1,1 @@
-Mac hóa PlayFair and RSA
+Mã hóa PlayFair and RSA
